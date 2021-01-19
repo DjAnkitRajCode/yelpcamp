@@ -1,0 +1,20 @@
+#delete-form{
+    display: inline;
+}
+#image{
+    height: 160px;
+}
+.jumbotron{
+    background-image: url(images/tent_wallpaper.jpg);
+    background-position: center;
+    background-size: cover;
+    height: 400px;
+}
+.aa{
+    width: 100%;
+}
+
+#form {
+    width: 30%;
+     margin: 30px auto;
+}
